@@ -1,5 +1,5 @@
 # SimplePyGameDemo
-A simple demonstration of OpenGL using Python that listens to mouse input. 
+A simple demonstration of OpenGL using Python, that allows using gestures in front of the webcam to replace mouse input.
 
 ## For Linux:
 `# pip install PyOpenGL PyOpenGL-accelerate pygame`
